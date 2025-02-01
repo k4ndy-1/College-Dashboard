@@ -1,4 +1,2 @@
-streamlit==0.80.0
-pandas==1.0.5
-numpy==1.18.5
-
+streamlit,
+pandas
